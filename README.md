@@ -6,10 +6,10 @@ This tool is free.
 
 Pick your favorite AI assistant.
 
-## GPT
+### GPT
 - Use [our Custom GPT](https://chatgpt.com/g/g-69e80ed817608191a45c7f11b20d91ad-study-applicability-reviewer).
 
-## Claude
+### Claude
 - From Claude app or website, click on `Customize`.
 - Click on `Create new skills`.
 - Click the add button -> `Create skill`.
