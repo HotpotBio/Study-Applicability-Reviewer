@@ -1,10 +1,10 @@
 # Overview
 The Hotpot.ai Study Applicability Reviewer helps readers understand a study and identify which conclusions may not generalize to real patients, real-world settings, or broader populations. It highlights concrete limitations in study design, sampling, measurement, and external validity without overstating what the paper can support.
 
-# How to Use
-This tool is free to use.
+## 🚀 Quick Start
+This tool is free.
 
-Use your favorite AI assistant to analyze a paper with our prompt.
+Pick your favorite AI assistant.
 
 ## GPT
 - Use [our Custom GPT](https://chatgpt.com/g/g-69e80ed817608191a45c7f11b20d91ad-study-applicability-reviewer).
