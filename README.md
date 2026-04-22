@@ -10,7 +10,7 @@ Pick your favorite AI assistant.
 - Use [our Custom GPT](https://chatgpt.com/g/g-69e80ed817608191a45c7f11b20d91ad-study-applicability-reviewer).
 
 ### Claude
-- From Claude app or website, click on `Customize`.
+- From the Claude app or website, click on `Customize`.
 - Click on `Create new skills`.
 - Click the add button -> `Create skill`.
 - Upload [our Claude skill](https://github.com/HotpotBio/Study-Applicability-Reviewer/blob/main/skill.md) or copy/paste the skill text.
