@@ -7,7 +7,7 @@ This tool is free to use.
 Use your favorite AI assistant to analyze a paper with our prompt.
 
 ## GPT
-- Use our Custom GPT.
+- Use [our Custom GPT](https://chatgpt.com/g/g-69e80ed817608191a45c7f11b20d91ad-study-applicability-reviewer).
 
 ## Claude
 - From Claude app or website, click on `Customize`.
